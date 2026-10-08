@@ -1,0 +1,6 @@
+{
+  "model": "RandomForest (manual sklearn)",
+  "accuracy": 0.7901,
+  "auc": 0.8629,
+  "f1": 0.7208
+}
