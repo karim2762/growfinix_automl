@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pkl
+models/*
+!models/.gitkeep
+data/*
+!data/.gitkeep
+logs.log
+.ipynb_checkpoints/
